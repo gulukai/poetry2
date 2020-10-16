@@ -1,0 +1,8 @@
+{{object.poetry_title}}
+{{object.poetry_dynasty.dynasty_name}}
+{{object.poetry_author.author_name}}
+{{object.poetry_tag.tag_name}}
+{{object.poetry_text}}
+{{object.poetry_translation}}
+{{object.poetry_annotation}}
+{{object.poetry_appreciation}}
